@@ -3,7 +3,7 @@ from tkinter import filedialog
 from PIL import ImageTk,Image
 
 root=Tk()
-root.title("Planet Encyclopedia")
+root.title("Image Rotater")
 root.geometry("600x600")
 root.configure(background="royalblue")
 
